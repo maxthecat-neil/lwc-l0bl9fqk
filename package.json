@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/maxthecat-neil.lwc-l0bl9fqk",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve kK4jXk6hTC6uOjkqKaYR --open"
+  }
+}
